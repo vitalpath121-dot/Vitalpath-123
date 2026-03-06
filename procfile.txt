@@ -1,1 +1,0 @@
-web: gunicorn vitalpath_app:app
